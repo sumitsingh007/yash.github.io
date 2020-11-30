@@ -1,0 +1,22 @@
+.hero-img {
+    height: 230px;
+    width: 230px;
+    object-fit: cover;
+    border-radius: 0%;
+    z-index: 1;
+    position: relative;
+    margin: 0 auto;
+    box-shadow: none;
+}
+
+.about-avatar img {
+    height: 100px;
+    width: 130px;
+    object-fit: cover;
+}
+
+.btn-link {
+    background: transparent;
+    color: #222;
+    border: solid 1.5px #222;
+}
